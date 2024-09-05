@@ -1,0 +1,15 @@
+{
+  "development": {
+    "username": "ConditionSetsDb_owner",
+    "password": "sbGuUT8hx2en",
+    "database": "ConditionSetsDb",
+    "host": "ep-red-sky-a54t01o6.us-east-2.aws.neon.tech",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
